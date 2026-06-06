@@ -1,0 +1,11 @@
+streamlit
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-openai==0.1.25
+langchain-text-splitters==0.2.4
+langchain-core==0.2.43
+faiss-cpu
+openai
+python-dotenv
+pypdf
+tiktoken
